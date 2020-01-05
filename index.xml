@@ -6,10 +6,20 @@
     <description>Recent content on क्षणभंगुर</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.akshaymalik.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Setting up this Blog</title>
+      <link>https://www.akshaymalik.com/blog/2019/12/31/setting-up-a-blog/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.akshaymalik.com/blog/2019/12/31/setting-up-a-blog/</guid>
+      <description>Why make a blog This question is reasonable as there are several options such as Medium or Wordpress that can help one get setup with a blog without much trouble. The reasons I decided to setup my own blog are as follows:
+Show off R skills  - I wanted to have a blog specifically to show off data science work. Setting up a blog using Rstudio provides me with a straight forward R project to get started on.</description>
+    </item>
     
     <item>
       <title>Using Crash Data hosted by Open Data Philly</title>
@@ -17,7 +27,8 @@
       <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.akshaymalik.com/blog/2019/12/27/using-crash-data-hosted-by-open-data-philly/</guid>
-      <description>s simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry’s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</description>
+      <description> What are we making The final product looks like this. This is under active development and may not seem like much before it gets completely polished. But there are several interesting concepts that were used here and I want to share some of there through this post.
+ </description>
     </item>
     
     <item>
@@ -45,8 +56,8 @@ an increase in the number of travel options or choices a rise in data exchange t
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
       <guid>https://www.akshaymalik.com/blog/about/</guid>
-      <description>me Akshay Malik - Currently working for City of Philadelphia&#39;s OTIS (Office of Transportation, Infrastructure &amp;amp; Sustainability). Focused on making urban infrastructure safer and smarter using data and design. Huge urban policy and data nerd. Studied and practiced architecture for several years. Studied city planning and now work for a city government. Love travelling, math and coding. Family guy.
-blog This blog is a compilation of my analysis and opnions on data science, public policy, urban mobility, architecture and system design.</description>
+      <description>Me Akshay Malik. Architect and city planner by education. Currently working as a transportation analyst for the City of Philadelphia.
+Over the past 8 years - I have designed and built large buildings, planned government infrastructure, written public policy, studied traffic safety issues and written code for web mapping applications. I am truely grateful for the love and support from my family. I thank all the people who I learned from, worked with or simply met along the way.</description>
     </item>
     
   </channel>

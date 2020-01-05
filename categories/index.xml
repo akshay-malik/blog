@@ -6,7 +6,7 @@
     <description>Recent content in Categories on क्षणभंगुर</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.akshaymalik.com/blog/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>Data Science</title>
       <link>https://www.akshaymalik.com/blog/categories/data-science/</link>
-      <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.akshaymalik.com/blog/categories/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Design</title>
+      <link>https://www.akshaymalik.com/blog/categories/web-design/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.akshaymalik.com/blog/categories/web-design/</guid>
       <description></description>
     </item>
     
@@ -35,15 +44,6 @@
       <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.akshaymalik.com/blog/categories/urban-mobility/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://www.akshaymalik.com/blog/categories/about/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
-      
-      <guid>https://www.akshaymalik.com/blog/categories/about/</guid>
       <description></description>
     </item>
     

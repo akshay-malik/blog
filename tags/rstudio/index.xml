@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data Science on क्षणभंगुर</title>
-    <link>https://www.akshaymalik.com/blog/categories/data-science/</link>
-    <description>Recent content in Data Science on क्षणभंगुर</description>
+    <title>Rstudio on क्षणभंगुर</title>
+    <link>https://www.akshaymalik.com/blog/tags/rstudio/</link>
+    <description>Recent content in Rstudio on क्षणभंगुर</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Dec 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.akshaymalik.com/blog/categories/data-science/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.akshaymalik.com/blog/tags/rstudio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       <guid>https://www.akshaymalik.com/blog/2019/12/31/setting-up-a-blog/</guid>
       <description>Why make a blog This question is reasonable as there are several options such as Medium or Wordpress that can help one get setup with a blog without much trouble. The reasons I decided to setup my own blog are as follows:
 Show off R skills  - I wanted to have a blog specifically to show off data science work. Setting up a blog using Rstudio provides me with a straight forward R project to get started on.</description>
-    </item>
-    
-    <item>
-      <title>Using Crash Data hosted by Open Data Philly</title>
-      <link>https://www.akshaymalik.com/blog/2019/12/27/using-crash-data-hosted-by-open-data-philly/</link>
-      <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.akshaymalik.com/blog/2019/12/27/using-crash-data-hosted-by-open-data-philly/</guid>
-      <description> What are we making The final product looks like this. This is under active development and may not seem like much before it gets completely polished. But there are several interesting concepts that were used here and I want to share some of there through this post.
- </description>
     </item>
     
   </channel>

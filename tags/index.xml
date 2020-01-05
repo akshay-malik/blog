@@ -6,10 +6,46 @@
     <description>Recent content in Tags on क्षणभंगुर</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.akshaymalik.com/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blogdown</title>
+      <link>https://www.akshaymalik.com/blog/tags/blogdown/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.akshaymalik.com/blog/tags/blogdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSS</title>
+      <link>https://www.akshaymalik.com/blog/tags/css/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.akshaymalik.com/blog/tags/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rmarkdown</title>
+      <link>https://www.akshaymalik.com/blog/tags/rmarkdown/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.akshaymalik.com/blog/tags/rmarkdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rstudio</title>
+      <link>https://www.akshaymalik.com/blog/tags/rstudio/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.akshaymalik.com/blog/tags/rstudio/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Carto SQL API</title>
@@ -66,20 +102,20 @@
     </item>
     
     <item>
-      <title>About this blog</title>
-      <link>https://www.akshaymalik.com/blog/tags/about-this-blog/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
-      
-      <guid>https://www.akshaymalik.com/blog/tags/about-this-blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Purpose</title>
       <link>https://www.akshaymalik.com/blog/tags/purpose/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
       <guid>https://www.akshaymalik.com/blog/tags/purpose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>This Blog</title>
+      <link>https://www.akshaymalik.com/blog/tags/this-blog/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>https://www.akshaymalik.com/blog/tags/this-blog/</guid>
       <description></description>
     </item>
     
