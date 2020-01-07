@@ -44,6 +44,20 @@ html {
   --heading-color: #333;
   --hr-color: rgba(0,0,0,.1);
   }
+  
+  a {
+  color: #222;
+  font-weight: 400;
+  text-decoration: none;
+}
+/* `:focus` is linked to `:hover` for basic accessibility */
+a:hover,
+a:focus {
+  text-decoration: underline;
+  text-decoration: 600;
+  color: #666;
+  
+}
 }
 @media (min-width: 58em) {
   html {
@@ -55,6 +69,20 @@ html {
   --heading-color: #333;
   --hr-color: rgba(0,0,0,.1);
   }
+  
+  a {
+  color: #222;
+  font-weight: 400;
+  text-decoration: none;
+}
+/* `:focus` is linked to `:hover` for basic accessibility */
+a:hover,
+a:focus {
+  text-decoration: underline;
+  text-decoration: 600;
+  color: #666;
+  
+}
 }
 
 body {
@@ -98,14 +126,14 @@ body {
 /* Sidebar links */
 .sidebar a {
   
-  font-size: 1em;
+  font-size: 1.2em;
   
 }
 
 /* About section */
 .sidebar-about h1 {
   color: #fff;
-  font-size: 3.25rem;
+  font-size: 3rem;
   font-weight: 800;
 }
 
@@ -229,7 +257,7 @@ a.sidebar-nav-item:focus {
 }
 
 .post-text {
-  font-size:1.1rem;
+  font-size:0.9rem;
   font-weight:300;
 }
 
