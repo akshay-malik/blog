@@ -2,23 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>This Blog on क्षणभंगुर</title>
-    <link>https://www.akshaymalik.com/blog/tags/this-blog/</link>
+    <link>/blog/tags/this-blog/</link>
     <description>Recent content in This Blog on क्षणभंगुर</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 05 May 2016 21:48:51 -0700</lastBuildDate>
     
-	<atom:link href="https://www.akshaymalik.com/blog/tags/this-blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/blog/tags/this-blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://www.akshaymalik.com/blog/about/</link>
+      <link>/blog/about/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
-      <guid>https://www.akshaymalik.com/blog/about/</guid>
-      <description>Me Akshay Malik. Architect and city planner by education. Currently working as a transportation analyst for the City of Philadelphia.
-Over the past 8 years - I have designed and built large buildings, planned government infrastructure, written public policy, studied traffic safety issues and written code for web mapping applications. I am truely grateful for the love and support from my family. I thank all the people who I learned from, worked with or simply met along the way.</description>
+      <guid>/blog/about/</guid>
+      <description>Blog&#39;s title - क्षणभंगुर I like the execise of naming events in general because it helps one give thought to what is the event about and how is it relevant to one&#39;s time or space.. This blog is named shan-n-bhang-oor, which means something that gets destroyed in an instant. The origin of my thinking about this particular word comes from my conversations with my first boss and good friend, George Attokaran.</description>
     </item>
     
   </channel>

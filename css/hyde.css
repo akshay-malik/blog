@@ -100,7 +100,7 @@ body {
  */
 
 .sidebar {
-  background-color: #F4AC32;
+  background-color: #dadada;
   text-align: left;
   padding: 2em;
   --body-bg: #212529;
@@ -132,10 +132,21 @@ body {
 
 /* About section */
 .sidebar-about h1 {
-  color: #fff;
+  
   font-size: 3rem;
   font-weight: 800;
 }
+
+.sidebar-about h1:hover,
+.sidebar-about h1:focus{
+  
+  text-decoration: underline;
+  color: black;
+  text-decoration-color:white ;
+  
+  
+}
+
 
 /* Sidebar nav */
 .sidebar-nav {
@@ -232,7 +243,7 @@ a.sidebar-nav-item:focus {
   float: left;
   list-style: none;
   text-align: center;
-  background-color: #999;
+  background-color: #FF6663;
   margin-right:0.3rem;
   margin-bottom:0.3rem;
   padding-right: 0.4rem;

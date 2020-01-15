@@ -2,21 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Data on क्षणभंगुर</title>
-    <link>https://www.akshaymalik.com/blog/tags/open-data/</link>
+    <link>/blog/tags/open-data/</link>
     <description>Recent content in Open Data on क्षणभंगुर</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.akshaymalik.com/blog/tags/open-data/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/blog/tags/open-data/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Two most important open data sets that are never accessible</title>
+      <link>/blog/2020/01/07/two-most-important-open-data-sets-that-are-never-accessible/</link>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020/01/07/two-most-important-open-data-sets-that-are-never-accessible/</guid>
+      <description>Curbside Parking Regulations Public Transportation Arrival Information </description>
+    </item>
+    
+    <item>
       <title>Using Crash Data hosted by Open Data Philly</title>
-      <link>https://www.akshaymalik.com/blog/2019/12/27/using-crash-data-hosted-by-open-data-philly/</link>
+      <link>/blog/2019/12/27/using-crash-data-hosted-by-open-data-philly/</link>
       <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.akshaymalik.com/blog/2019/12/27/using-crash-data-hosted-by-open-data-philly/</guid>
+      <guid>/blog/2019/12/27/using-crash-data-hosted-by-open-data-philly/</guid>
       <description> What are we making The final product looks like this. This is under active development and may not seem like much before it gets completely polished. But there are several interesting concepts that were used here and I want to share some of there through this post.
  Data The data for this is setup using
  </description>
