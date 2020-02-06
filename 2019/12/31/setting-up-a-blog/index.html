@@ -104,13 +104,42 @@
 <li><a href="https://pages.github.com">Github Pages</a></li>
 </ul>
 </div>
+<div id="overview-of-the-setup" class="section level3">
+<h3>Overview of the Setup</h3>
+<p>This blog is an extension to my named website <a href="www.akshaymalik.com">www.akshaymalik.com</a>. I bought the domain from Google domains for about $12 per year. Then I created a github account and using <a href="https://pages.github.com">Github Pages</a> created a landing page with some basic html and css. I did scrape the css from <a href="https://www.mdo.fm">mdo</a> just because it is one of the best minimalistic layout and design I have seen.</p>
+<p>At this point I had a landing page with some links all at a url <strong><a href="https://akshay-malik.github.io" class="uri">https://akshay-malik.github.io</a></strong>. To make it point to the domain name I bought from Google, I go the settings tab on the github repo and scroll down to the section with the header <em>Github Pages</em>. Here I need to enter under custom domain, the name of my domain like so:</p>
+<p><img src="/post/2019-12-31-setting-up-a-blog_files/github_pages.png" />
+Addtitionally, a file must be added to the repo called <strong>CNAME</strong> and all it needs to contain is the url you are pointing it to, in this case <strong>www.akshaymalik.com</strong>. You need to fix a few things in your domain setting as well but that is something that google has good documentation on and I cannnot cover that here.</p>
+<p>Now, with a landing page and the url setup, next step was to setup the pipeline to write content from RStudio and have it tranlated to a webpage. This is achieved using <strong>Blogdown</strong>. This library in RStudio uses <a href="https://themes.gohugo.io">Hugo</a> to translate Rmarkdown into HTML/CSS/Js. Additionally, it allows charts and all the great visualizations from RStudio to be made into a webpage without me writing any code for it.</p>
+</div>
 <div id="rstudio" class="section level3">
 <h3>RStudio</h3>
 <p>Download the latest version from <a href="https://rstudio.com/products/rstudio/">here</a> and open/run the application on your system/computer. If you are not familiar with this software, I recommend checking out some free courses by <a href="www.datacamp.com">DataCamp</a> to get started.</p>
 <p>Here’s the nickle tour:</p>
 <ul>
-<li>Once setup and run, you will see the defailt setup</li>
+<li><p>Once setup and run, you will see the default arrangement as seen in the image below<br><br>
+<img src="/post/2019-12-31-setting-up-a-blog_files/rstudio_nickletour.png" /></p></li>
+<li>The code is typed in the upper left box</li>
+<li>Files (similar to Finder/Explorer) are seen in bottom right</li>
+<li>Logs of the code running are seen in the Console panel in the bottom left</li>
+<li><p>Top right panel has various functional tabs but the most I end up using here is access to stored variables that get generated in a given project or data imported.</p></li>
 </ul>
+<p>Check out any number of tutorials on how to write code in Rstudio.</p>
+</div>
+<div id="blogdown" class="section level3">
+<h3>Blogdown</h3>
+<p>This is a good tool to develop a website but it has some basic functional requirements to get started with a blog. I highly recommend going through the documentation <a href="https://bookdown.org/yihui/blogdown/">here</a>.</p>
+<p>Here are some good links to walk through the process of setting up a blog using blogdown:
+- <a href="https://alison.rbind.io/post/2017-06-12-up-and-running-with-blogdown/">Alison Hill</a>
+- <a href="https://www.emilyzabor.com/tutorials/rmarkdown_websites_tutorial.html">Emily Zabor</a></p>
+<p>These were the two that I used.</p>
+<p>I am sure a good google search may lead to some more recent results on blogdown and setting up a blog. But that is just half the story. Once you have everything setup, for someone like me who really wants full control of the design aspect of the pages, it was key to know how to setup the CSS and Hugo to get the desired results on <strong>TAGS</strong> and <strong>CATEGORIES</strong>.</p>
+</div>
+<div id="hugo" class="section level3">
+<h3>Hugo</h3>
+<p>To get a sense of how Hugo worked, I tried to wrap my head around some basic concepts such as:
+- <a href="https://gohugo.io/templates/partials/">partial templates</a>
+- []</p>
 </div>
 </div>
   

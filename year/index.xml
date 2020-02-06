@@ -6,10 +6,19 @@
     <description>Recent content in Year on क्षणभंगुर</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/blog/year/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2020</title>
+      <link>/blog/year/2020/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/year/2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>2019</title>
