@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>mobility as a service on क्षणभंगुर</title>
-    <link>/blog/tags/mobility-as-a-service/</link>
+    <link>https://www.akshaymalik.com/blog/tags/mobility-as-a-service/</link>
     <description>Recent content in mobility as a service on क्षणभंगुर</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 27 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/blog/tags/mobility-as-a-service/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.akshaymalik.com/blog/tags/mobility-as-a-service/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Modes vs Choices/Options</title>
-      <link>/blog/2020/01/27/modes-or-choices/</link>
+      <link>https://www.akshaymalik.com/blog/2020/01/27/modes-or-choices/</link>
       <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2020/01/27/modes-or-choices/</guid>
-      <description>This difference between transportation modes and choices or options described here may seem to be semantic at first. But upon a bit more thought, it may reveal significant implications on how transportation infrastructure gets analyzed, financed, managed and delivered to users. It also wider impacts on other urban functions such as land use planning, local tax policy and real estate development.
-Changes in Urban Mobility Landscape Today, it has become difficult and critical to manage the transportation infrastructure in the City because of the following three factors:</description>
+      <guid>https://www.akshaymalik.com/blog/2020/01/27/modes-or-choices/</guid>
+      <description>Changes in Urban Mobility Landscape This difference between transportation modes and choices or options described here may seem to be semantic at first. But if examined closelt, it reveals significant implications on how transportation infrastructure gets analyzed, financed, managed and delivered to users. It also points to wider impacts on other planning functions such as land use planning, local tax policy and real estate development.
+ Changes in Urban Mobility Landscape Today, it has become difficult and critical to manage the transportation infrastructure in the City because of the following three factors:</description>
     </item>
     
   </channel>

@@ -2,62 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on क्षणभंगुर</title>
-    <link>/blog/post/</link>
+    <link>https://www.akshaymalik.com/blog/post/</link>
     <description>Recent content in Posts on क्षणभंगुर</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 27 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/blog/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.akshaymalik.com/blog/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Modes vs Choices/Options</title>
-      <link>/blog/2020/01/27/modes-or-choices/</link>
+      <link>https://www.akshaymalik.com/blog/2020/01/27/modes-or-choices/</link>
       <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2020/01/27/modes-or-choices/</guid>
-      <description>This difference between transportation modes and choices or options described here may seem to be semantic at first. But upon a bit more thought, it may reveal significant implications on how transportation infrastructure gets analyzed, financed, managed and delivered to users. It also wider impacts on other urban functions such as land use planning, local tax policy and real estate development.
-Changes in Urban Mobility Landscape Today, it has become difficult and critical to manage the transportation infrastructure in the City because of the following three factors:</description>
-    </item>
-    
-    <item>
-      <title>Two most important open data sets that are never accessible</title>
-      <link>/blog/2020/01/07/two-most-important-open-data-sets-that-are-never-accessible/</link>
-      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2020/01/07/two-most-important-open-data-sets-that-are-never-accessible/</guid>
-      <description>Curbside Parking Regulations Public Transportation Arrival Information </description>
+      <guid>https://www.akshaymalik.com/blog/2020/01/27/modes-or-choices/</guid>
+      <description>Changes in Urban Mobility Landscape This difference between transportation modes and choices or options described here may seem to be semantic at first. But if examined closelt, it reveals significant implications on how transportation infrastructure gets analyzed, financed, managed and delivered to users. It also points to wider impacts on other planning functions such as land use planning, local tax policy and real estate development.
+ Changes in Urban Mobility Landscape Today, it has become difficult and critical to manage the transportation infrastructure in the City because of the following three factors:</description>
     </item>
     
     <item>
       <title>Setting up this Blog</title>
-      <link>/blog/2019/12/31/setting-up-a-blog/</link>
+      <link>https://www.akshaymalik.com/blog/2019/12/31/setting-up-a-blog/</link>
       <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2019/12/31/setting-up-a-blog/</guid>
+      <guid>https://www.akshaymalik.com/blog/2019/12/31/setting-up-a-blog/</guid>
       <description>Why make a blog This question is reasonable as there are several options such as Medium or Wordpress that can help one get setup with a blog without much trouble. The reasons I decided to setup my own blog are as follows:
 Show off R skills  - I wanted to have a blog specifically to show off data science work. Setting up a blog using Rstudio provides me with a straight forward R project to get started on.</description>
     </item>
     
     <item>
       <title>Using Crash Data hosted by Open Data Philly</title>
-      <link>/blog/2019/12/27/using-crash-data-hosted-by-open-data-philly/</link>
+      <link>https://www.akshaymalik.com/blog/2019/12/27/using-crash-data-hosted-by-open-data-philly/</link>
       <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2019/12/27/using-crash-data-hosted-by-open-data-philly/</guid>
+      <guid>https://www.akshaymalik.com/blog/2019/12/27/using-crash-data-hosted-by-open-data-philly/</guid>
       <description> What are we making The final product looks like this. This is under active development and may not seem like much before it gets completely polished. But there are several interesting concepts that were used here and I want to share some of there through this post.
  Data The data for this is setup using
  </description>
-    </item>
-    
-    <item>
-      <title>Running list of systems needed in the City</title>
-      <link>/blog/2019/12/25/running-list-of-systems-needed-in-the-city/</link>
-      <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/2019/12/25/running-list-of-systems-needed-in-the-city/</guid>
-      <description>Having worked for the City for over two years, I have had the pleasure and priveledge of working with a group of hard working and talented government employees. This time and interaction has allowed me to see that lack of resources has caused several people hours to go waste in doing tasks that should clearly be automated. This situation encouraged me to start this running list of systems that the City needs desperately.</description>
     </item>
     
   </channel>

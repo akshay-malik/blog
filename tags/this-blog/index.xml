@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>This Blog on क्षणभंगुर</title>
-    <link>/blog/tags/this-blog/</link>
+    <link>https://www.akshaymalik.com/blog/tags/this-blog/</link>
     <description>Recent content in This Blog on क्षणभंगुर</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 May 2016 21:48:51 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 25 Dec 2019 21:48:51 -0700</lastBuildDate>
     
-	<atom:link href="/blog/tags/this-blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.akshaymalik.com/blog/tags/this-blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>/blog/about/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      <link>https://www.akshaymalik.com/blog/about/</link>
+      <pubDate>Wed, 25 Dec 2019 21:48:51 -0700</pubDate>
       
-      <guid>/blog/about/</guid>
+      <guid>https://www.akshaymalik.com/blog/about/</guid>
       <description>Blog&#39;s title - क्षणभंगुर I like the execise of naming events in general because it helps one give thought to what is the event about and how is it relevant to one&#39;s time or space.. This blog is named shan-n-bhang-oor, which means something that gets destroyed in an instant. The origin of my thinking about this particular word comes from my conversations with my first boss and good friend, George Attokaran.</description>
     </item>
     
