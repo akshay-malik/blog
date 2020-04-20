@@ -254,7 +254,7 @@ tbody tr:nth-child(odd) th {
 
 .lead_s {
   font-size: 1rem;
-  font-weight: 800;
+  font-weight: 400;
   margin:0;
   
   line-height: 0.9;
@@ -263,7 +263,7 @@ tbody tr:nth-child(odd) th {
 .lead_s:focus, 
 .lead_s:hover {
   font-size: 1 rem;
-  font-weight: 600;
+  font-weight: 500;
   
   text-decoration:none;
 }
