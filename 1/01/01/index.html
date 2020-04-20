@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Modes vs Options</title>
+  <meta name="description" content="Modes vs Options" />
+  <meta name="generator" content="bookdown #bookdown:version# and GitBook 2.6.7" />
+
+  <meta property="og:title" content="Modes vs Options" />
+  <meta property="og:type" content="book" />
+  
+  
+  
+  
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Modes vs Options" />
+  
+  
+  
+
+<meta name="author" content="Akshay Malik" />
+
+
+<meta name="date" content="2020-01-27" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+
+
+<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+
+
+<style type="text/css">
+a.sourceLine { display: inline-block; line-height: 1.25; }
+a.sourceLine { pointer-events: none; color: inherit; text-decoration: inherit; }
+a.sourceLine:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode { white-space: pre; position: relative; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+code.sourceCode { white-space: pre-wrap; }
+a.sourceLine { text-indent: -1em; padding-left: 1em; }
+}
+pre.numberSource a.sourceLine
+  { position: relative; left: -4em; }
+pre.numberSource a.sourceLine::before
+  { content: attr(data-line-number);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; pointer-events: all; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  {  }
+@media screen {
+a.sourceLine::before { text-decoration: underline; }
+}
+code span.al { color: #ff0000; font-weight: bold; }  
+code span.an { color: #60a0b0; font-weight: bold; font-style: italic; }  
+code span.at { color: #7d9029; }  
+code span.bn { color: #40a070; }  
+code span.bu { }  
+code span.cf { color: #007020; font-weight: bold; }  
+code span.ch { color: #4070a0; }  
+code span.cn { color: #880000; }  
+code span.co { color: #60a0b0; font-style: italic; }  
+code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; }  
+code span.do { color: #ba2121; font-style: italic; }  
+code span.dt { color: #902000; }  
+code span.dv { color: #40a070; }  
+code span.er { color: #ff0000; font-weight: bold; }  
+code span.ex { }  
+code span.fl { color: #40a070; }  
+code span.fu { color: #06287e; }  
+code span.im { }  
+code span.in { color: #60a0b0; font-weight: bold; font-style: italic; }  
+code span.kw { color: #007020; font-weight: bold; }  
+code span.op { color: #666666; }  
+code span.ot { color: #007020; }  
+code span.pp { color: #bc7a00; }  
+code span.sc { color: #4070a0; }  
+code span.ss { color: #bb6688; }  
+code span.st { color: #4070a0; }  
+code span.va { color: #19177c; }  
+code span.vs { color: #4070a0; }  
+code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; }  
+</style>
+
+</head>
+
+<body>
+
+
+
+
+<div id="header">
+<h1 class="title">Modes vs Options</h1>
+<p class="author"><em>Akshay Malik</em></p>
+<p class="date"><em>2020-01-27</em></p>
+</div>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul>
+<li><a href="#why-is-this-useful"><span class="toc-section-number">0.0.1</span> Why is this useful ?</a></li>
+<li><a href="#ok-so-what-is-the-difference"><span class="toc-section-number">0.0.2</span> OK, so what is the difference ?</a></li>
+<li><a href="#why-study-transportation-systems-as-data-systems"><span class="toc-section-number">0.0.3</span> Why study transportation systems as data systems?</a></li>
+<li><a href="#what-are-we-making"><span class="toc-section-number">0.0.4</span> What are we making</a></li>
+<li><a href="#data"><span class="toc-section-number">0.0.5</span> Data</a></li>
+<li><a href="#why-make-a-blog"><span class="toc-section-number">0.0.6</span> Why make a blog</a></li>
+<li><a href="#disclaimer"><span class="toc-section-number">0.0.7</span> Disclaimer</a></li>
+<li><a href="#components"><span class="toc-section-number">0.0.8</span> Components</a></li>
+<li><a href="#overview-of-the-setup"><span class="toc-section-number">0.0.9</span> Overview of the Setup</a></li>
+<li><a href="#rstudio"><span class="toc-section-number">0.0.10</span> RStudio</a></li>
+<li><a href="#blogdown"><span class="toc-section-number">0.0.11</span> Blogdown</a></li>
+<li><a href="#hugo"><span class="toc-section-number">0.0.12</span> Hugo</a></li>
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Modes vs Options</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+
+
+<div id="why-is-this-useful" class="section level3">
+<h3><span class="header-section-number">0.0.1</span> Why is this useful ?</h3>
+</div>
+<div id="ok-so-what-is-the-difference" class="section level3">
+<h3><span class="header-section-number">0.0.2</span> OK, so what is the difference ?</h3>
+</div>
+<div id="why-study-transportation-systems-as-data-systems" class="section level3">
+<h3><span class="header-section-number">0.0.3</span> Why study transportation systems as data systems?</h3>
+
+<p>Having worked for the City for over two years, I have had the pleasure and priveledge of working with a group of hard working and talented government employees. This time and interaction has allowed me to see that lack of resources has caused several people hours to go waste in doing tasks that should clearly be automated. This situation encouraged me to start this running list of systems that the City needs desperately. Some of them have been identified and their procurement is just stuck in some red-tape stuff. Others are yet to be identified or have political issues as serious barriers to moving forward. So here it is:</p>
+<ol style="list-style-type: decimal">
+<li>Street Closure Permitting System</li>
+<li>Crash Data Management System</li>
+<li></li>
+</ol>
+
+</div>
+<div id="what-are-we-making" class="section level3">
+<h3><span class="header-section-number">0.0.4</span> What are we making</h3>
+<p>The final product looks like <a href="https://www.akshaymalik.com/philadelphia-crash-reporter/">this</a>. This is under active development and may not seem like much before it gets completely polished. But there are several interesting concepts that were used here and I want to share some of there through this post.</p>
+</div>
+<div id="data" class="section level3">
+<h3><span class="header-section-number">0.0.5</span> Data</h3>
+<p>The data for this is setup using</p>
+
+</div>
+<div id="why-make-a-blog" class="section level3">
+<h3><span class="header-section-number">0.0.6</span> Why make a blog</h3>
+</div>
+<div id="disclaimer" class="section level3">
+<h3><span class="header-section-number">0.0.7</span> Disclaimer</h3>
+</div>
+<div id="components" class="section level3">
+<h3><span class="header-section-number">0.0.8</span> Components</h3>
+</div>
+<div id="overview-of-the-setup" class="section level3">
+<h3><span class="header-section-number">0.0.9</span> Overview of the Setup</h3>
+</div>
+<div id="rstudio" class="section level3">
+<h3><span class="header-section-number">0.0.10</span> RStudio</h3>
+</div>
+<div id="blogdown" class="section level3">
+<h3><span class="header-section-number">0.0.11</span> Blogdown</h3>
+</div>
+<div id="hugo" class="section level3">
+<h3><span class="header-section-number">0.0.12</span> Hugo</h3>
+
+<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb1-1" data-line-number="1"><span class="dv">1</span><span class="op">+</span><span class="dv">1</span></a></code></pre></div>
+<pre><code>## [1] 2</code></pre>
+
+</div>
+
+            </section>
+
+          </div>
+        </div>
+      </div>
+
+
+    </div>
+  </div>
+
+
+</body>
+
+</html>

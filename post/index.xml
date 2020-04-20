@@ -12,13 +12,12 @@
     
     
     <item>
-      <title>Modes vs Choices/Options</title>
-      <link>https://www.akshaymalik.com/blog/2020/01/27/modes-or-choices/</link>
+      <title>Modes vs Options</title>
+      <link>https://www.akshaymalik.com/blog/2020/01/27/modes-or-options/</link>
       <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.akshaymalik.com/blog/2020/01/27/modes-or-choices/</guid>
-      <description>Changes in Urban Mobility Landscape This difference between transportation modes and choices or options described here may seem to be semantic at first. But if examined closelt, it reveals significant implications on how transportation infrastructure gets analyzed, financed, managed and delivered to users. It also points to wider impacts on other planning functions such as land use planning, local tax policy and real estate development.
- Changes in Urban Mobility Landscape Today, it has become difficult and critical to manage the transportation infrastructure in the City because of the following three factors:</description>
+      <guid>https://www.akshaymalik.com/blog/2020/01/27/modes-or-options/</guid>
+      <description>Why is this useful ? Initially, difference between transportation modes and transportation options described here may seem to be semantic at first. But if examined closely, it reveals significant implications on how transportation infrastructure gets analyzed, financed, managed and delivered to users. It also points to wider impacts on other planning functions such as land use planning, local tax policy and real estate development. The goal is to provide an alternative way of classifying all the choices people have today to transport goods and people, especially in the urban setting.</description>
     </item>
     
     <item>
@@ -40,6 +39,15 @@ Show off R skills  - I wanted to have a blog specifically to show off data scien
       <description> What are we making The final product looks like this. This is under active development and may not seem like much before it gets completely polished. But there are several interesting concepts that were used here and I want to share some of there through this post.
  Data The data for this is setup using
  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.akshaymalik.com/blog/1/01/01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.akshaymalik.com/blog/1/01/01/</guid>
+      <description>Modes vs Options             a.sourceLine { display: inline-block; line-height: 1.25; } a.sourceLine { pointer-events: none; color: inherit; text-decoration: inherit; } a.sourceLine:empty { height: 1.2em; } .sourceCode { overflow: visible; } code.sourceCode { white-space: pre; position: relative; } pre.sourceCode { margin: 0; } @media screen { div.sourceCode { overflow: auto; } } @media print { code.sourceCode { white-space: pre-wrap; } a.</description>
     </item>
     
   </channel>
