@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>City Systems on @ क्षणभंगुर</title>
-    <link>https://www.akshaymalik.com/blog/tags/city-systems/</link>
-    <description>Recent content in City Systems on @ क्षणभंगुर</description>
+    <title>Data Infrastructure on @ क्षणभंगुर</title>
+    <link>https://www.akshaymalik.com/blog/tags/data-infrastructure/</link>
+    <description>Recent content in Data Infrastructure on @ क्षणभंगुर</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.akshaymalik.com/blog/tags/city-systems/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.akshaymalik.com/blog/tags/data-infrastructure/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,17 +18,6 @@
       
       <guid>https://www.akshaymalik.com/blog/2020/04/20/smart-loading-zones/</guid>
       <description>What’s a Stupid loading zone? Lets take a step back and see what a loading zone does before we start calling it names. In the context of Philadelphia’s public right-of-way (in simple terms space between two property lines including sidewalks, parking lanes and travel lanes) loading zones are spaces along the curb usually within parking lanes, that allow for different types of loading activities. In Philadelphia there are at least three types of loading activities formally assigned to such zones:</description>
-    </item>
-    
-    <item>
-      <title>Using Crash Data hosted by Open Data Philly</title>
-      <link>https://www.akshaymalik.com/blog/2019/12/27/using-crash-data-hosted-by-open-data-philly/</link>
-      <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.akshaymalik.com/blog/2019/12/27/using-crash-data-hosted-by-open-data-philly/</guid>
-      <description> What are we making The final product looks like this. This is under active development and may not seem like much before it gets completely polished. But there are several interesting concepts that were used here and I want to share some of there through this post.
- Data The data for this is setup using
- </description>
     </item>
     
   </channel>

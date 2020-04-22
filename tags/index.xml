@@ -6,10 +6,46 @@
     <description>Recent content in Tags on @ क्षणभंगुर</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.akshaymalik.com/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>City Systems</title>
+      <link>https://www.akshaymalik.com/blog/tags/city-systems/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.akshaymalik.com/blog/tags/city-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Infrastructure</title>
+      <link>https://www.akshaymalik.com/blog/tags/data-infrastructure/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.akshaymalik.com/blog/tags/data-infrastructure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart Technologies</title>
+      <link>https://www.akshaymalik.com/blog/tags/smart-technologies/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.akshaymalik.com/blog/tags/smart-technologies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>urban mobility</title>
+      <link>https://www.akshaymalik.com/blog/tags/urban-mobility/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.akshaymalik.com/blog/tags/urban-mobility/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>mobility as a service</title>
@@ -17,15 +53,6 @@
       <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.akshaymalik.com/blog/tags/mobility-as-a-service/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>urban mobility</title>
-      <link>https://www.akshaymalik.com/blog/tags/urban-mobility/</link>
-      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.akshaymalik.com/blog/tags/urban-mobility/</guid>
       <description></description>
     </item>
     
@@ -71,15 +98,6 @@
       <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.akshaymalik.com/blog/tags/carto-sql-api/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>City Systems</title>
-      <link>https://www.akshaymalik.com/blog/tags/city-systems/</link>
-      <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.akshaymalik.com/blog/tags/city-systems/</guid>
       <description></description>
     </item>
     
