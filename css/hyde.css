@@ -118,7 +118,7 @@ body {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 30rem;
+    width: 16rem;
     text-align: left;
   }
 }
@@ -131,6 +131,8 @@ body {
   
   font-size: 2.25rem;
   font-weight: 600;
+  margin: 0.2rem;
+  
 }
 
 .sidebar-about h1:hover,
