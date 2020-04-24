@@ -118,7 +118,7 @@ body {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 18rem;
+    width: 30rem;
     text-align: left;
   }
 }
@@ -129,7 +129,7 @@ body {
 /* About section */
 .sidebar-about h1 {
   
-  font-size: 3rem;
+  font-size: 2.25rem;
   font-weight: 600;
 }
 
@@ -253,14 +253,11 @@ a.sidebar-nav-item:focus {
 }
 
 .tag-button-body li a {
-  
   color: #FFF ;
-  
 }
 
 .list-all {
   font-family: "courier";
-  
 }
 
 .post-text {
