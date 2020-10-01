@@ -46,7 +46,7 @@ html {
   }
   
   a {
-  color: #222;
+  color: #333;
   font-weight: 400;
   text-decoration: none;
 }
@@ -71,7 +71,7 @@ a:focus {
   }
   
   a {
-  color: #222;
+  color: #333;
   font-weight: 400;
   text-decoration: none;
 }
@@ -84,6 +84,33 @@ a:focus {
   
 }
 }
+
+@media (max-width: 48em) {
+  html {
+     --body-bg: #fafafa;
+  --body-color: #7a7a7a;
+  --body-font-weight: 400;
+  --link-color: #00A8E8;
+  --link-color-hover: #007EA7;
+  --heading-color: #333;
+  --hr-color: rgba(0,0,0,.1);
+  }
+  
+  a {
+  color: #333;
+  font-weight: 400;
+  text-decoration: none;
+}
+/* `:focus` is linked to `:hover` for basic accessibility */
+a:hover,
+a:focus {
+  text-decoration: underline;
+  text-decoration: 600;
+  color: #666;
+  
+}
+}
+
 
 body {
   
@@ -100,7 +127,7 @@ body {
  */
 
 .sidebar {
-  background-color: #dadada;
+  background-color: #6B818C;
   text-align: left;
   padding: 2em;
   --body-bg: #212529;
@@ -129,9 +156,11 @@ body {
 /* About section */
 .sidebar-about h1 {
   
-  font-size: 2.25rem;
+  font-size: 3rem;
   font-weight: 600;
   margin: 0.2rem;
+  margin-bottom: 1.5rem;
+  color: #fff;
   
 }
 
@@ -139,7 +168,7 @@ body {
 .sidebar-about h1:focus{
   
   text-decoration: underline;
-  color: black;
+  color: #fff;
   text-decoration-color:white ;
   
   

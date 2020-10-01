@@ -1,22 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>urban mobility on @ क्षणभंगुर</title>
-    <link>https://www.akshaymalik.com/blog/tags/urban-mobility/</link>
-    <description>Recent content in urban mobility on @ क्षणभंगुर</description>
+    <title>urban mobility on क्षणभंगुर</title>
+    <link>/blog/tags/urban-mobility/</link>
+    <description>Recent content in urban mobility on क्षणभंगुर</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.akshaymalik.com/blog/tags/urban-mobility/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="/blog/tags/urban-mobility/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Smart Loading Zones</title>
-      <link>https://www.akshaymalik.com/blog/2020/04/20/smart-loading-zones/</link>
+      <link>/blog/2020/04/20/smart-loading-zones/</link>
       <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.akshaymalik.com/blog/2020/04/20/smart-loading-zones/</guid>
+      <guid>/blog/2020/04/20/smart-loading-zones/</guid>
       <description>What’s a Stupid loading zone? Lets take a step back and see what a loading zone does before we start calling it names. In the context of Philadelphia’s public right-of-way (in simple terms space between two property lines including sidewalks, parking lanes and travel lanes) loading zones are spaces along the curb usually within parking lanes, that allow for different types of loading activities. In Philadelphia there are at least three types of loading activities formally assigned to such zones:</description>
     </item>
     

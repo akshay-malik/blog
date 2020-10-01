@@ -1,49 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on @ क्षणभंगुर</title>
-    <link>https://www.akshaymalik.com/blog/categories/</link>
-    <description>Recent content in Categories on @ क्षणभंगुर</description>
+    <title>Categories on क्षणभंगुर</title>
+    <link>/blog/categories/</link>
+    <description>Recent content in Categories on क्षणभंगुर</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Apr 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.akshaymalik.com/blog/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 23 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="/blog/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Smart City</title>
-      <link>https://www.akshaymalik.com/blog/categories/smart-city/</link>
+      <link>/blog/categories/smart-city/</link>
       <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.akshaymalik.com/blog/categories/smart-city/</guid>
+      <guid>/blog/categories/smart-city/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Urban Mobility</title>
-      <link>https://www.akshaymalik.com/blog/categories/urban-mobility/</link>
+      <link>/blog/categories/urban-mobility/</link>
       <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.akshaymalik.com/blog/categories/urban-mobility/</guid>
+      <guid>/blog/categories/urban-mobility/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Science</title>
-      <link>https://www.akshaymalik.com/blog/categories/data-science/</link>
+      <link>/blog/categories/data-science/</link>
       <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.akshaymalik.com/blog/categories/data-science/</guid>
+      <guid>/blog/categories/data-science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Web Design</title>
-      <link>https://www.akshaymalik.com/blog/categories/web-design/</link>
+      <link>/blog/categories/web-design/</link>
       <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.akshaymalik.com/blog/categories/web-design/</guid>
+      <guid>/blog/categories/web-design/</guid>
       <description></description>
     </item>
     

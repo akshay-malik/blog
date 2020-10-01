@@ -1,50 +1,55 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on @ क्षणभंगुर</title>
-    <link>https://www.akshaymalik.com/blog/post/</link>
-    <description>Recent content in Posts on @ क्षणभंगुर</description>
+    <title>Posts on क्षणभंगुर</title>
+    <link>/blog/post/</link>
+    <description>Recent content in Posts on क्षणभंगुर</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Apr 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.akshaymalik.com/blog/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 23 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="/blog/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Modes vs Options</title>
-      <link>https://www.akshaymalik.com/blog/2020/04/23/modes-vs-options/</link>
+      <link>/blog/2020/04/23/modes-vs-options/</link>
       <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.akshaymalik.com/blog/2020/04/23/modes-vs-options/</guid>
+      <guid>/blog/2020/04/23/modes-vs-options/</guid>
       <description>Why is this useful ? Initially, difference between transportation modes and transportation options described here may seem to be semantic at first. But if examined closely, it reveals significant implications on how transportation infrastructure gets analyzed, financed, managed and delivered to users. It also points to wider impacts on other planning functions such as land use planning, local tax policy and real estate development. The goal is to provide an alternative way of classifying all the choices people have today to transport goods and people, especially in the urban setting.</description>
     </item>
     
     <item>
       <title>Smart Loading Zones</title>
-      <link>https://www.akshaymalik.com/blog/2020/04/20/smart-loading-zones/</link>
+      <link>/blog/2020/04/20/smart-loading-zones/</link>
       <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.akshaymalik.com/blog/2020/04/20/smart-loading-zones/</guid>
+      <guid>/blog/2020/04/20/smart-loading-zones/</guid>
       <description>What’s a Stupid loading zone? Lets take a step back and see what a loading zone does before we start calling it names. In the context of Philadelphia’s public right-of-way (in simple terms space between two property lines including sidewalks, parking lanes and travel lanes) loading zones are spaces along the curb usually within parking lanes, that allow for different types of loading activities. In Philadelphia there are at least three types of loading activities formally assigned to such zones:</description>
     </item>
     
     <item>
+      <title>Two most important open data sets that are never accessible</title>
+      <link>/blog/2020/01/07/two-most-important-open-data-sets-that-are-never-accessible/</link>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020/01/07/two-most-important-open-data-sets-that-are-never-accessible/</guid>
+      <description>Curbside Parking Regulations Public Transportation Arrival Information </description>
+    </item>
+    
+    <item>
       <title>Setting up this Blog</title>
-      <link>https://www.akshaymalik.com/blog/2019/12/31/setting-up-a-blog/</link>
+      <link>/blog/2019/12/31/setting-up-a-blog/</link>
       <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.akshaymalik.com/blog/2019/12/31/setting-up-a-blog/</guid>
+      <guid>/blog/2019/12/31/setting-up-a-blog/</guid>
       <description>Why make a blog This question is reasonable as there are several options such as Medium or Wordpress that can help one get setup with a blog without much trouble. The reasons I decided to setup my own blog are as follows:
 Show off R skills  - I wanted to have a blog specifically to show off data science work. Setting up a blog using Rstudio provides me with a straight forward R project to get started on.</description>
     </item>
     
     <item>
       <title>Using Crash Data hosted by Open Data Philly</title>
-      <link>https://www.akshaymalik.com/blog/2019/12/27/using-crash-data-hosted-by-open-data-philly/</link>
+      <link>/blog/2019/12/27/using-crash-data-hosted-by-open-data-philly/</link>
       <pubDate>Fri, 27 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.akshaymalik.com/blog/2019/12/27/using-crash-data-hosted-by-open-data-philly/</guid>
+      <guid>/blog/2019/12/27/using-crash-data-hosted-by-open-data-philly/</guid>
       <description> What are we making The final product looks like this. This is under active development and may not seem like much before it gets completely polished. But there are several interesting concepts that were used here and I want to share some of there through this post.
  Data The data for this is setup using
  </description>

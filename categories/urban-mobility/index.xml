@@ -1,32 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Urban Mobility on @ क्षणभंगुर</title>
-    <link>https://www.akshaymalik.com/blog/categories/urban-mobility/</link>
-    <description>Recent content in Urban Mobility on @ क्षणभंगुर</description>
+    <title>Urban Mobility on क्षणभंगुर</title>
+    <link>/blog/categories/urban-mobility/</link>
+    <description>Recent content in Urban Mobility on क्षणभंगुर</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Apr 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.akshaymalik.com/blog/categories/urban-mobility/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 23 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="/blog/categories/urban-mobility/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Modes vs Options</title>
-      <link>https://www.akshaymalik.com/blog/2020/04/23/modes-vs-options/</link>
+      <link>/blog/2020/04/23/modes-vs-options/</link>
       <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.akshaymalik.com/blog/2020/04/23/modes-vs-options/</guid>
+      <guid>/blog/2020/04/23/modes-vs-options/</guid>
       <description>Why is this useful ? Initially, difference between transportation modes and transportation options described here may seem to be semantic at first. But if examined closely, it reveals significant implications on how transportation infrastructure gets analyzed, financed, managed and delivered to users. It also points to wider impacts on other planning functions such as land use planning, local tax policy and real estate development. The goal is to provide an alternative way of classifying all the choices people have today to transport goods and people, especially in the urban setting.</description>
     </item>
     
     <item>
       <title>Smart Loading Zones</title>
-      <link>https://www.akshaymalik.com/blog/2020/04/20/smart-loading-zones/</link>
+      <link>/blog/2020/04/20/smart-loading-zones/</link>
       <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.akshaymalik.com/blog/2020/04/20/smart-loading-zones/</guid>
+      <guid>/blog/2020/04/20/smart-loading-zones/</guid>
       <description>What’s a Stupid loading zone? Lets take a step back and see what a loading zone does before we start calling it names. In the context of Philadelphia’s public right-of-way (in simple terms space between two property lines including sidewalks, parking lanes and travel lanes) loading zones are spaces along the curb usually within parking lanes, that allow for different types of loading activities. In Philadelphia there are at least three types of loading activities formally assigned to such zones:</description>
+    </item>
+    
+    <item>
+      <title>Two most important open data sets that are never accessible</title>
+      <link>/blog/2020/01/07/two-most-important-open-data-sets-that-are-never-accessible/</link>
+      <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2020/01/07/two-most-important-open-data-sets-that-are-never-accessible/</guid>
+      <description>Curbside Parking Regulations Public Transportation Arrival Information </description>
     </item>
     
   </channel>
